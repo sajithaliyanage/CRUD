@@ -1,0 +1,1 @@
+Hi guys, this is the form of CRUD, CRUD means Creating Retriving Updating and Deleteing commands in SQL. This is a From of CRUD using MySQL and PHP
