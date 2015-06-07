@@ -1,0 +1,9 @@
+
+############################# INSTRUCTIONS########################
+
+for car arrival user has to input -  a(space)[Number-plate]
+for car depart user has to input - d(space)[Number-plate]
+
+#########################ENJOY IT!##################################
+
+
